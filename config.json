@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdarse",
+        "uuid": 3658472,
+        "checksum": "3ol7vem"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
